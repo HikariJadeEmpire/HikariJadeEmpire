@@ -6,11 +6,14 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 - 🌱 I’m currently learning Data Science
 
 #
+<br>
 
-[![](https://img.shields.io/badge/_-Punnathorn-blue?style=f?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/hikarii)
-[![](https://img.shields.io/badge/_-hikari.19-rgb(222,49,99)?style=f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hikarii.19/)
+<div align="center">
+  
+<a href="www.linkedin.com/in/hikarii">![Name of image](https://img.shields.io/badge/_-Punnathorn-blue?style=f?style=flat-square&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/hikarii.19/">![Name of image](https://img.shields.io/badge/_-hikari.19-rgb(222,49,99)?style=f?style=flat-square&logo=instagram&logoColor=white)</a>
 
-
+</div>
 
 ![EightBit-wallpaperflare com_wallpaper copy](https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/dc1ddc85-7ad4-41ec-bb4e-f1f27878e0a6)
 
