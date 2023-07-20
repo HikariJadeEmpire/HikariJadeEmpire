@@ -15,9 +15,6 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 
 </div>
 
-![EightBit-wallpaperflare com_wallpaper copy](https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/dc1ddc85-7ad4-41ec-bb4e-f1f27878e0a6)
-
-
 <!--
 **HikariJadeEmpire/HikariJadeEmpire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
