@@ -1,10 +1,6 @@
 ### Hi there 👋
 If you're :mag_right: looking for my data portfolio :open_book: , you can find it here : [:computer_mouse: click](https://github.com/HikariJadeEmpire/Main-Repository)
 
-#### About me
-- 💬 Ask me about anything
-- 🌱 I’m currently learning Data Science
-
 #
 <br>
 
