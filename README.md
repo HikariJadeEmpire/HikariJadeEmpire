@@ -4,9 +4,8 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 <div align="center">
   
 <img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/62954d59-a222-4a09-ab29-134cb9bc69f1" alt="heart" width="30"/>  
-<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/4d2e0363-9d7d-40e5-b694-2cc7dd9564fe" alt="insect" width="40"/>  
-<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/ec14b5f1-b844-48ff-a9f2-11cfa4617514" alt="rainbow-shit" width="40"/>  
-<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/91d5b6ef-13a1-4d50-ab64-9c6596e33e33" alt="monster-mage" width="40"/>
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/4d2e0363-9d7d-40e5-b694-2cc7dd9564fe" alt="insect" width="40"/>   
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/b220f87c-1a33-4257-b937-d6cd90350516" alt="yellow-dog" width="40"/>
 
 
 <!--  <img src="" alt="insect" width="30"/>  -->
@@ -21,7 +20,6 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HikariJadeEmpire&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-<br>
 
 <!--
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariJadeEmpire&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
