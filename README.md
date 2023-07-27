@@ -12,20 +12,18 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 <!--  <img src="" alt="insect" width="30"/>  -->
 
 </div>
-
+<!--
 #
 
 <div align="center">
   
 :medal_military: My stat :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HikariJadeEmpire&theme=transparent&mode=weekly&card_width=500)](https://git.io/streak-stats)   
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka
+<!--END_SECTION:waka
 
 </div>
-
+-->
 #
 <br>
 
