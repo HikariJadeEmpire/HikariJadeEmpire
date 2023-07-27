@@ -2,11 +2,29 @@
 If you're :mag_right: looking for my data portfolio :open_book: , you can find it here : [:computer_mouse: click](https://github.com/HikariJadeEmpire/Main-Repository)
 
 #
+
+<div align="center">
+  
+:medal_military: My stat :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HikariJadeEmpire&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikariJadeEmpire&theme=transparent&layout=donut)
+
+<br>
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariJadeEmpire&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+#
 <br>
 
 <div align="center">
 
-Languages & Tools : <br>
+:hammer_and_wrench: Languages & Tools : <br>
 
 <br>
 
