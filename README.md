@@ -19,7 +19,9 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
   
 :medal_military: My stat :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HikariJadeEmpire&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HikariJadeEmpire&theme=transparent&mode=weekly&card_width=500)](https://git.io/streak-stats)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikariJadeEmpire&theme=transparent&layout=donut)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
