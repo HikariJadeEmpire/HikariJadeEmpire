@@ -4,8 +4,9 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 <div align="center">
   
 <img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/62954d59-a222-4a09-ab29-134cb9bc69f1" alt="heart" width="30"/>  
-<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/4d2e0363-9d7d-40e5-b694-2cc7dd9564fe" alt="insect" width="40"/>   
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/2b7300ba-d677-4576-a41e-cd500d59eae4" alt="insect" width="30"/>   
 <img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/b220f87c-1a33-4257-b937-d6cd90350516" alt="yellow-dog" width="40"/>
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/f2b17404-0cc3-4bb8-9eb9-23af45c5ef11" alt="green-slime" width="30"/>
 
 
 <!--  <img src="" alt="insect" width="30"/>  -->
