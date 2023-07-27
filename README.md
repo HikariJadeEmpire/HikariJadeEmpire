@@ -1,6 +1,18 @@
 ### Hi there 👋
 If you're :mag_right: looking for my data portfolio :open_book: , you can find it here : [:computer_mouse: click](https://github.com/HikariJadeEmpire/Main-Repository)
 
+<div align="center">
+  
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/62954d59-a222-4a09-ab29-134cb9bc69f1" alt="heart" width="30"/>  
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/4d2e0363-9d7d-40e5-b694-2cc7dd9564fe" alt="insect" width="40"/>  
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/ec14b5f1-b844-48ff-a9f2-11cfa4617514" alt="rainbow-shit" width="40"/>  
+<img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/91d5b6ef-13a1-4d50-ab64-9c6596e33e33" alt="monster-mage" width="40"/>
+
+
+<!--  <img src="" alt="insect" width="30"/>  -->
+
+</div>
+
 #
 
 <div align="center">
