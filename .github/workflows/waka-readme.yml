@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: HikariJadeEmpire/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.waka_2f05809d-1315-404d-88b7-ce8bf0e8a485 }}
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
