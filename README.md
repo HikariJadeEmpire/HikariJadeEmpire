@@ -21,6 +21,8 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HikariJadeEmpire&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
