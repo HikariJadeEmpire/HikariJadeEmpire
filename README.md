@@ -11,7 +11,7 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikariJadeEmpire&theme=transparent&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikariJadeEmpire&theme=transparent&layout=compact)
 
 <br>
 
