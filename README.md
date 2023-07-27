@@ -15,6 +15,10 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 
 <br>
 
+<!--
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariJadeEmpire&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 </div>
 
 #
