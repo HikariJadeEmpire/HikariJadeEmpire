@@ -3,8 +3,8 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 30 Minutes
-    - cron: "30 * * * *"
+    # Runs every 30 Minutes > 30 * * * *
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
