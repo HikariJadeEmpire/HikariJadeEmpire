@@ -21,10 +21,9 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 
 [![wakatime](https://wakatime.com/badge/user/30256e53-7b96-4bda-9b50-c9b714dd1f4d.svg)](https://wakatime.com/@30256e53-7b96-4bda-9b50-c9b714dd1f4d)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 </div>
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 #
 <br>
