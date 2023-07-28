@@ -23,7 +23,8 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 
 </div>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #
 <br>
