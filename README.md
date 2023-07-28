@@ -19,6 +19,7 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
   
 :medal_military: My stat :
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariJadeEmpire)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
