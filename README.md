@@ -22,9 +22,9 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-496-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-518-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -51,14 +51,15 @@ Mac                      31 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         6 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.00 % 
-Python                   2 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.00 % 
+Jupyter Notebook         6 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.67 % 
+Python                   2 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.22 % 
+HCL                      1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.11 % 
 ```
 
 
 
 
- Last Updated on 31/07/2023 02:34:15 UTC
+ Last Updated on 31/07/2023 16:12:07 UTC
 <!--END_SECTION:waka-->
 
 #
