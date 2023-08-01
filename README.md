@@ -77,6 +77,7 @@ HCL                      1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="30"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="30"/>   
 <img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/c5e0c45d-c233-46ad-802b-ab662cad435a" alt="scikit-learn" width="30"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="30"/>  
 <img src="https://www.cdnlogo.com/logos/h/22/hadoop.svg" alt="hadoop" width="40"/>  
 <img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/79ffcd54-582c-4a31-958c-c644cef75602" alt="spark" width="30"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="30"/> 
