@@ -62,6 +62,8 @@ HCL                      1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 03/08/2023 16:09:53 UTC
 <!--END_SECTION:waka-->
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariJadeEmpire)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 <br>
 
