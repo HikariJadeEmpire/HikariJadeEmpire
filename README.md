@@ -21,7 +21,7 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
@@ -57,7 +57,7 @@ Python                   2 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/09/2023 16:11:21 UTC
+ Last Updated on 23/09/2023 16:10:00 UTC
 <!--END_SECTION:waka-->
 
 #
