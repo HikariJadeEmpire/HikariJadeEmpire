@@ -1,6 +1,16 @@
 ### Hi there 👋
 If you're :mag_right: looking for my data portfolio :open_book: , you can find it here : [:computer_mouse: click](https://github.com/HikariJadeEmpire/Main-Repository)
 
+<br>
+
+<div align="center">
+ 
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hikarii&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<br>
+
 <div align="center">
   
 <img src="https://github.com/HikariJadeEmpire/HikariJadeEmpire/assets/118663358/62954d59-a222-4a09-ab29-134cb9bc69f1" alt="heart" width="30"/>  
