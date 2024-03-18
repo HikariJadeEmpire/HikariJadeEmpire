@@ -21,7 +21,7 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,7 +56,7 @@ HCL                      2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 17/03/2024 16:10:08 UTC
+ Last Updated on 18/03/2024 16:12:14 UTC
 <!--END_SECTION:waka-->
 
 #
