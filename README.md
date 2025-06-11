@@ -87,9 +87,12 @@ C                        1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" alt="rstudio" width="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html" width="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="30"/> 
 
 
 <br><br>
