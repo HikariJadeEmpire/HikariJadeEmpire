@@ -21,7 +21,7 @@ If you're :mag_right: looking for my data portfolio :open_book: , you can find i
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -42,6 +42,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -55,7 +61,7 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 26/07/2026 16:52:16 UTC
+ Last Updated on 27/07/2026 17:38:07 UTC
 <!--END_SECTION:waka-->
 
 #
